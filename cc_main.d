@@ -1,0 +1,10 @@
+.\cc_main.o: CC_Main.c
+.\cc_main.o: CCMain.h
+.\cc_main.o: CcAbstLayer.h
+.\cc_main.o: CcLpc24xxPhLayer.h
+.\cc_main.o: lpc24xx.h
+.\cc_main.o: target.h
+.\cc_main.o: ssp.h
+.\cc_main.o: type.h
+.\cc_main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\cc_main.o: LCD.h

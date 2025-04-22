@@ -1,0 +1,16 @@
+--cpu ARM7TDMI
+".\lpc2400.o"
+".\cntrlcardintrface.o"
+".\configureuc.o"
+".\guic_main.o"
+".\keypad_intrface.o"
+".\lcd_intrface.o"
+".\peripheral_intrfs.o"
+".\xray_irq.o"
+".\xray_lcd4bit.o"
+".\rs485communication.o"
+".\nvmintrface.o"
+--strict --scatter ".\457_001_GUI_CardFirmware Rev01_1.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\457_001_GUI_CardFirmware Rev01_1.map" -o ".\457_001_GUI_CardFirmware Rev01_1.axf"

@@ -1,0 +1,10 @@
+.\guicardintrface.o: GuiCardIntrface.c
+.\guicardintrface.o: GuiCardIntrface.h
+.\guicardintrface.o: CcAbstLayer.h
+.\guicardintrface.o: CcLpc24xxPhLayer.h
+.\guicardintrface.o: lpc24xx.h
+.\guicardintrface.o: target.h
+.\guicardintrface.o: ssp.h
+.\guicardintrface.o: type.h
+.\guicardintrface.o: irq.h
+.\guicardintrface.o: XRAY_CAN.h

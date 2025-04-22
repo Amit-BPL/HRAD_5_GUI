@@ -1,0 +1,9 @@
+.\genrtrintrfce.o: GenrtrIntrfce.c
+.\genrtrintrfce.o: GenrtrIntrfce.h
+.\genrtrintrfce.o: CcAbstLayer.h
+.\genrtrintrfce.o: CcLpc24xxPhLayer.h
+.\genrtrintrfce.o: lpc24xx.h
+.\genrtrintrfce.o: target.h
+.\genrtrintrfce.o: ssp.h
+.\genrtrintrfce.o: type.h
+.\genrtrintrfce.o: irq.h

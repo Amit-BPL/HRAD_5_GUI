@@ -1,0 +1,9 @@
+.\lpc2000_can_driver.o: LPC2000_CAN_Driver.c
+.\lpc2000_can_driver.o: CcAbstLayer.h
+.\lpc2000_can_driver.o: CcLpc24xxPhLayer.h
+.\lpc2000_can_driver.o: lpc24xx.h
+.\lpc2000_can_driver.o: target.h
+.\lpc2000_can_driver.o: ssp.h
+.\lpc2000_can_driver.o: type.h
+.\lpc2000_can_driver.o: LPC2000_CAN.h
+.\lpc2000_can_driver.o: LPC2000_CAN_GAF.h

@@ -1,0 +1,9 @@
+.\cntrlcardintrface.o: CntrlCardIntrface.c
+.\cntrlcardintrface.o: GenrtrIntrfce.h
+.\cntrlcardintrface.o: CcAbstLayer.h
+.\cntrlcardintrface.o: CcLpc24xxPhLayer.h
+.\cntrlcardintrface.o: lpc24xx.h
+.\cntrlcardintrface.o: target.h
+.\cntrlcardintrface.o: ssp.h
+.\cntrlcardintrface.o: type.h
+.\cntrlcardintrface.o: irq.h

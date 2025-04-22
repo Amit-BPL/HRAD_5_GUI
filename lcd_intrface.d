@@ -1,0 +1,10 @@
+.\lcd_intrface.o: LCD_IntrFace.c
+.\lcd_intrface.o: LcdIntrFace.h
+.\lcd_intrface.o: CcAbstLayer.h
+.\lcd_intrface.o: CcLpc24xxPhLayer.h
+.\lcd_intrface.o: lpc24xx.h
+.\lcd_intrface.o: target.h
+.\lcd_intrface.o: ssp.h
+.\lcd_intrface.o: type.h
+.\lcd_intrface.o: LCD.h
+.\lcd_intrface.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h

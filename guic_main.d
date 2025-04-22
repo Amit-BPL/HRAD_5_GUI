@@ -1,0 +1,10 @@
+.\guic_main.o: GUIC_Main.c
+.\guic_main.o: GUICMain.h
+.\guic_main.o: CcAbstLayer.h
+.\guic_main.o: CcLpc24xxPhLayer.h
+.\guic_main.o: lpc24xx.h
+.\guic_main.o: target.h
+.\guic_main.o: ssp.h
+.\guic_main.o: type.h
+.\guic_main.o: LCD.h
+.\guic_main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h

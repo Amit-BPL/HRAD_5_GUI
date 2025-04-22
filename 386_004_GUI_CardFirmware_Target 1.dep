@@ -1,0 +1,90 @@
+Dependencies for Project '386_004_GUI_CardFirmware', Target 'Target 1': (DO NOT MODIFY !)
+F (.\LPC2400.s)(0x5B65732A)(--cpu ARM7TDMI -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips--list .\lpc2400.lst --xref -o .\lpc2400.o --depend .\lpc2400.d)
+F (.\CntrlCardIntrface.c)(0x63ABD498)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\cntrlcardintrface.o --omf_browse .\cntrlcardintrface.crf --depend .\cntrlcardintrface.d)
+I (GenrtrIntrfce.h)(0x647980EA)
+I (CcAbstLayer.h)(0x652FDF0E)
+I (CcLpc24xxPhLayer.h)(0x638D947C)
+I (lpc24xx.h)(0x5BC43BA8)
+I (target.h)(0x5B6E6BBE)
+I (ssp.h)(0x5B8392A4)
+I (type.h)(0x5B28832C)
+I (irq.h)(0x5CC83B4C)
+F (.\ConfigureUc.c)(0x614F052E)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\configureuc.o --omf_browse .\configureuc.crf --depend .\configureuc.d)
+I (ConfigureUc.h)(0x63ABD174)
+I (CcAbstLayer.h)(0x652FDF0E)
+I (CcLpc24xxPhLayer.h)(0x638D947C)
+I (lpc24xx.h)(0x5BC43BA8)
+I (target.h)(0x5B6E6BBE)
+I (ssp.h)(0x5B8392A4)
+I (type.h)(0x5B28832C)
+F (.\GUIC_Main.c)(0x66A8D433)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\guic_main.o --omf_browse .\guic_main.crf --depend .\guic_main.d)
+I (GUICMain.h)(0x613EF9AC)
+I (CcAbstLayer.h)(0x652FDF0E)
+I (CcLpc24xxPhLayer.h)(0x638D947C)
+I (lpc24xx.h)(0x5BC43BA8)
+I (target.h)(0x5B6E6BBE)
+I (ssp.h)(0x5B8392A4)
+I (type.h)(0x5B28832C)
+I (LCD.h)(0x5CEB8E1A)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7E87C)
+F (.\KEYPAD_IntrFace.c)(0x653BAFDC)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\keypad_intrface.o --omf_browse .\keypad_intrface.crf --depend .\keypad_intrface.d)
+I (KeypadIntrFace.h)(0x63ABCBCE)
+I (CcAbstLayer.h)(0x652FDF0E)
+I (CcLpc24xxPhLayer.h)(0x638D947C)
+I (lpc24xx.h)(0x5BC43BA8)
+I (target.h)(0x5B6E6BBE)
+I (ssp.h)(0x5B8392A4)
+I (type.h)(0x5B28832C)
+F (.\LCD_IntrFace.c)(0x5FB26BA6)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\lcd_intrface.o --omf_browse .\lcd_intrface.crf --depend .\lcd_intrface.d)
+I (LcdIntrFace.h)(0x5FB25D3E)
+I (CcAbstLayer.h)(0x652FDF0E)
+I (CcLpc24xxPhLayer.h)(0x638D947C)
+I (lpc24xx.h)(0x5BC43BA8)
+I (target.h)(0x5B6E6BBE)
+I (ssp.h)(0x5B8392A4)
+I (type.h)(0x5B28832C)
+I (LCD.h)(0x5CEB8E1A)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C7E87C)
+F (.\Peripheral_Intrfs.c)(0x652FDE14)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\peripheral_intrfs.o --omf_browse .\peripheral_intrfs.crf --depend .\peripheral_intrfs.d)
+I (CcAbstLayer.h)(0x652FDF0E)
+I (CcLpc24xxPhLayer.h)(0x638D947C)
+I (lpc24xx.h)(0x5BC43BA8)
+I (target.h)(0x5B6E6BBE)
+I (ssp.h)(0x5B8392A4)
+I (type.h)(0x5B28832C)
+I (irq.h)(0x5CC83B4C)
+I (XRAY_CAN.h)(0x5C551272)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C7E87C)
+F (.\XRAY_IRQ.c)(0x5D16ED84)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\xray_irq.o --omf_browse .\xray_irq.crf --depend .\xray_irq.d)
+I (LPC24xx.h)(0x5BC43BA8)
+I (type.h)(0x5B28832C)
+I (irq.h)(0x5CC83B4C)
+I (CcAbstLayer.h)(0x652FDF0E)
+I (CcLpc24xxPhLayer.h)(0x638D947C)
+I (target.h)(0x5B6E6BBE)
+I (ssp.h)(0x5B8392A4)
+F (.\XRAY_LCD4BIT.C)(0x5F1FF0AE)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\xray_lcd4bit.o --omf_browse .\xray_lcd4bit.crf --depend .\xray_lcd4bit.d)
+I (CcAbstLayer.h)(0x652FDF0E)
+I (CcLpc24xxPhLayer.h)(0x638D947C)
+I (lpc24xx.h)(0x5BC43BA8)
+I (target.h)(0x5B6E6BBE)
+I (ssp.h)(0x5B8392A4)
+I (type.h)(0x5B28832C)
+I (LCD.h)(0x5CEB8E1A)
+F (.\Rs485Communication.c)(0x63ABCD44)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\rs485communication.o --omf_browse .\rs485communication.crf --depend .\rs485communication.d)
+I (Rs485Communication.h)(0x5EE87ADC)
+I (CcAbstLayer.h)(0x652FDF0E)
+I (CcLpc24xxPhLayer.h)(0x638D947C)
+I (lpc24xx.h)(0x5BC43BA8)
+I (target.h)(0x5B6E6BBE)
+I (ssp.h)(0x5B8392A4)
+I (type.h)(0x5B28832C)
+I (C:\Keil\ARM\ARMCC\include\math.h)(0x51C7E87C)
+F (.\NvmIntrface.c)(0x5DE09338)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\nvmintrface.o --omf_browse .\nvmintrface.crf --depend .\nvmintrface.d)
+I (NvmIntrface.h)(0x5D80AB6E)
+I (CcAbstLayer.h)(0x652FDF0E)
+I (CcLpc24xxPhLayer.h)(0x638D947C)
+I (lpc24xx.h)(0x5BC43BA8)
+I (target.h)(0x5B6E6BBE)
+I (ssp.h)(0x5B8392A4)
+I (type.h)(0x5B28832C)
