@@ -1,0 +1,9 @@
+.\rs485communication.o: Rs485Communication.c
+.\rs485communication.o: Rs485Communication.h
+.\rs485communication.o: CcAbstLayer.h
+.\rs485communication.o: CcLpc24xxPhLayer.h
+.\rs485communication.o: lpc24xx.h
+.\rs485communication.o: target.h
+.\rs485communication.o: ssp.h
+.\rs485communication.o: type.h
+.\rs485communication.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h

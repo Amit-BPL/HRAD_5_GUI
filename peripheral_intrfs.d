@@ -1,0 +1,10 @@
+.\peripheral_intrfs.o: Peripheral_Intrfs.c
+.\peripheral_intrfs.o: CcAbstLayer.h
+.\peripheral_intrfs.o: CcLpc24xxPhLayer.h
+.\peripheral_intrfs.o: lpc24xx.h
+.\peripheral_intrfs.o: target.h
+.\peripheral_intrfs.o: ssp.h
+.\peripheral_intrfs.o: type.h
+.\peripheral_intrfs.o: irq.h
+.\peripheral_intrfs.o: XRAY_CAN.h
+.\peripheral_intrfs.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
